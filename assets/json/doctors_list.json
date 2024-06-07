@@ -1,0 +1,24 @@
+ [
+    {
+      "doctorImage": "https://tse4.mm.bing.net/th?id=OIP.RPRpZ0mTLLrHDqxz4rhZuwHaHp&pid=Api&P=0&h=180",
+      "doctorName": "Dr. Smith",
+      "specialization": "Cardiology",
+      "appointmentIcon": "<URL or path to appointment icon>",
+      "price": "512"
+    },
+    {
+      "doctorImage": "https://tse3.mm.bing.net/th?id=OIP.PBPYVES_vO2MW-UMqpAXQgHaHa&pid=Api&P=0&h=180",
+      "doctorName": "Dr. Steve",
+      "specialization": "Pediatrics",
+      "appointmentIcon": "<URL or path to appointment icon>",
+      "price": "450"
+    },
+    {
+      "doctorImage": "https://tse3.mm.bing.net/th?id=OIP.LczXdrMkR1M0DA0Q6diejQHaIH&pid=Api&P=0&h=180",
+      "doctorName": "Dr. Johnson",
+      "specialization": "PediatrCardiologyics",
+      "appointmentIcon": "<URL or path to appointment icon>",
+      "price": "450"
+    }
+  ]
+
